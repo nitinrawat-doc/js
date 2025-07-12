@@ -1,9 +1,9 @@
-// let num1=239;
-// console.log(num1.toString());
-// console.log(num1.toString().length);
-// console.log(num1.toFixed(2));
-// let num2=433.33234;
-// console.log(num2.toPrecision(3));
+let num1 = 239;
+console.log(num1.toString());
+console.log(num1.toString().length);
+console.log(num1.toFixed(2));
+let num2 = 433.33234;
+console.log(num2.toPrecision(3));
 
 console.log(Math.abs(-5));
 console.log(Math.round(4.65));
